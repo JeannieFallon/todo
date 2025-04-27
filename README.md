@@ -1,4 +1,4 @@
-# 🧠 Todo Task Organizer (React + OpenAI)
+# Todo Task Organizer (React + OpenAI)
 
 This is a lightweight React application that transforms a user's freeform brain dump of tasks into a clean, prioritized task list using OpenAI's GPT-3.5 API.
 
